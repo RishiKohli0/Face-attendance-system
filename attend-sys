@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cd ~/Attendance-system/app/
+
+python gui.py
